@@ -1,9 +1,9 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-formoso/M-formoso/5f6b673bafdaff3cdb18f83974c6b186682357dd/ChatGPT%20Image%2012%20ago%202025%2C%2013_07_57.png" alt="Banner de Mateo Formoso" width="50%" />
+  <img src="https://raw.githubusercontent.com/M-formoso/M-formoso/5f6b673bafdaff3cdb18f83974c6b186682357dd/ChatGPT%20Image%2012%20ago%202025%2C%2013_07_57.png" alt="Banner de Mateo Formoso" width="60%" />
 </p>
 
-# ​ ¡Hola! Soy Mateo Formoso
+# ​ ¡Un panorama de lo que me gusta hacer! 
 
 🎓 **Técnico en Programación** (Universidad Nacional) | 📊 **Estudiante de Ciencia de Datos e Inteligencia Artificial**
 
