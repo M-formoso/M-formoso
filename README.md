@@ -1,10 +1,10 @@
 
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER.png" alt="banner" width="80%" />
+  <img src="https://www.google.com/search?sca_esv=fc200b82b34debf5&sxsrf=AE3TifNCsVxX1vb_pP-U5lPgB6iX0bEmHA:1755012977140&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKG1cRgcE0P7z3SNizmlu0Qk8MgiKsZ0mDOS2di7FnzoXmfvcHthyvVKQgeHVUpDwXvEOAeMFYtMFmiG_v6EGzbtYRpnXa8-khmYuHy6uJ_Z9x_rqJQQ8noN3D1QGG44PDEdeuyvAJz1dSCLu674B48L8d2F4zcj0Tp9ouEwRI36NdZzNPw&q=banner+de+programacion&sa=X&ved=2ahUKEwi2pdDozIWPAxXrHbkGHcL7LWYQtKgLegQIGBAB&biw=1536&bih=730&dpr=1.25#vhid=QbW9AQqun-Fo-M&vssid=mosaic" alt="banner" width="80%" />
 </p>
 
-# 👋 ¡Hola! Soy M-formoso
+# 👋 ¡Hola! Soy Mateo Formoso
 
 🎓 Técnico en Programación (Universidad Nacional) | 📊 Estudiante de Ciencia de Datos e IA
 
@@ -74,8 +74,8 @@ Me apasiona mejorar sistemas con IA y procesos automáticos.
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](TU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-MAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateo-formoso-b7870b2b4/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateoformoso0606@gmail.com)
 <!-- Agrega más enlaces si deseas -->
 
 ---
