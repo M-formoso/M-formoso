@@ -1,14 +1,15 @@
 
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://www.google.com/search?sca_esv=fc200b82b34debf5&sxsrf=AE3TifNCsVxX1vb_pP-U5lPgB6iX0bEmHA:1755012977140&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKG1cRgcE0P7z3SNizmlu0Qk8MgiKsZ0mDOS2di7FnzoXmfvcHthyvVKQgeHVUpDwXvEOAeMFYtMFmiG_v6EGzbtYRpnXa8-khmYuHy6uJ_Z9x_rqJQQ8noN3D1QGG44PDEdeuyvAJz1dSCLu674B48L8d2F4zcj0Tp9ouEwRI36NdZzNPw&q=banner+de+programacion&sa=X&ved=2ahUKEwi2pdDozIWPAxXrHbkGHcL7LWYQtKgLegQIGBAB&biw=1536&bih=730&dpr=1.25#vhid=QbW9AQqun-Fo-M&vssid=mosaic" alt="banner" width="80%" />
+  <img src="https://images.unsplash.com/photo-1537432376769-00a9930a4f9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80" alt="Banner de programación" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Mateo Formoso
 
-🎓 Técnico en Programación (Universidad Nacional) | 📊 Estudiante de Ciencia de Datos e IA
+🎓 **Técnico en Programación** (Universidad Nacional) | 📊 **Estudiante de Ciencia de Datos e Inteligencia Artificial**
 
-Desarrollo soluciones innovadoras, web apps y automatizaciones usando **Python, FastAPI, Docker, Angular, React** y más.
+Desarrollo soluciones innovadoras, aplicaciones web y automatizaciones usando **Python, FastAPI, Docker, Angular, React** y más.  
+Me apasiona crear sistemas eficientes, escalables y con impacto real.
 
 ---
 
@@ -43,7 +44,7 @@ Desarrollo soluciones innovadoras, web apps y automatizaciones usando **Python, 
 
 ---
 
-## 🛠️ Tecnologías & Skills
+## 🛠️ Tecnologías & Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -56,7 +57,7 @@ Desarrollo soluciones innovadoras, web apps y automatizaciones usando **Python, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-formoso&show_icons=true&theme=radical" height="150"/>
@@ -67,8 +68,8 @@ Desarrollo soluciones innovadoras, web apps y automatizaciones usando **Python, 
 
 ## 🤖 Automatización & IA
 
-Actualmente, exploro la integración de automatizaciones inteligentes y respuestas usando [n8n](https://n8n.io/).  
-Me apasiona mejorar sistemas con IA y procesos automáticos.
+Actualmente, exploro la integración de automatizaciones inteligentes y chatbots usando [n8n](https://n8n.io/).  
+Busco optimizar procesos con inteligencia artificial y mejorar la experiencia del usuario.
 
 ---
 
@@ -76,6 +77,4 @@ Me apasiona mejorar sistemas con IA y procesos automáticos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateo-formoso-b7870b2b4/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateoformoso0606@gmail.com)
-<!-- Agrega más enlaces si deseas -->
 
----
